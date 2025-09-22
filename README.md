@@ -17,9 +17,16 @@ SafeNex is a web-based project that demonstrates an innovative system designed t
 ---
 
 1. Clone the repository:
-     git clone git@github.com:IntegrationGOAT/SafeNex.git
-     cd SafeNex
+     `git clone git@github.com:IntegrationGOAT/SafeNex.git`
+     `cd SafeNex`
 2. Install dependencies:
-     npm install
+     `npm install`
 3. Start the development server:
-     npm run dev
+     `npm run dev`
+
+
+ Team
+Rishabh Das (XI) - @RizDas
+Anish De (XI)
+Jeet Baidya (IX) - @IntegrationGOAT
+School: Delhi Public School Ruby Park
