@@ -1,0 +1,11 @@
+.combustion { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; background-color: #f0efaf; }
+.overview { text-align: center; margin-bottom: 2rem; }
+.overview h1 { color: #69350c; font-size: 2.2rem; margin-bottom: 1rem; }
+.overview p { font-size: 1.1rem; line-height: 1.6; color: #69350c; max-width: 700px; margin: 0 auto; }
+.key-points { text-align: left; }
+.key-points h2 { color: #69350c; margin: 2rem 0 1rem 0; font-size: 1.6rem; }
+.key-points p { font-size: 1.1rem; line-height: 1.6; color: #69350c; margin-bottom: 1rem; }
+.key-points ul { list-style: disc; padding-left: 1.5rem; margin-bottom: 1rem; }
+.key-points li { font-size: 1.1rem; color: #69350c; margin-bottom: 0.5rem; }
+.equation { /* For any inline equations */ font-family: 'Courier New', monospace; font-style: italic; background: #ffffff; padding: 0.5rem; border-radius: 5px; display: inline-block; margin: 0.5rem 0; }
+@media (max-width: 768px) { .key-points { text-align: center; } .key-points ul { padding-left: 1rem; } .key-points h2 { font-size: 1.4rem; } }

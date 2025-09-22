@@ -1,0 +1,13 @@
+.services { max-width: 1000px; margin: 0 auto; padding: 2rem 1rem; background-color: #f0efaf; }
+.service-section { text-align: center; }
+.service-section h1 { color: #69350c; font-size: 2.2rem; margin-bottom: 1rem; }
+.service-section p { font-size: 1.1rem; margin-bottom: 2rem; line-height: 1.6; max-width: 800px; margin-left: auto; margin-right: auto; }
+.service-steps { list-style-position: inside; padding-left: 1rem; max-width: 800px; margin: 0 auto 2rem; text-align: left; }
+.service-steps li { background: #ffffff; margin-bottom: 1rem; padding: 1.5rem; border-radius: 10px; border-left: 4px solid #e0ae87; box-shadow: 0 2px 4px rgba(105, 53, 12, 0.05); transition: box-shadow 0.3s ease; }
+.service-steps li:hover { box-shadow: 0 4px 8px rgba(105, 53, 12, 0.1); }
+.service-steps h3 { color: #69350c; margin-bottom: 0.5rem; font-size: 1.2rem; }
+.service-steps p { color: #69350c; margin: 0; line-height: 1.5; }
+.service-benefits { list-style: none; padding: 0; max-width: 600px; margin: 0 auto; font-size: 1.1rem; }
+.service-benefits li { background: #ffffff; margin-bottom: 0.75rem; padding: 0.75rem; border-radius: 5px; border-left: 3px solid #e0ae87; text-align: left; transition: box-shadow 0.3s ease; }
+.service-benefits li:hover { box-shadow: 0 2px 4px rgba(105, 53, 12, 0.1); }
+@media (max-width: 768px) { .service-steps li { padding: 1rem; } .service-steps h3 { font-size: 1.1rem; } .service-benefits li { padding: 0.5rem; } }

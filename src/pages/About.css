@@ -1,0 +1,11 @@
+.about { max-width: 900px; margin: 0 auto; padding: 2rem 1rem; background-color: #f0efaf; }
+.mission, .team, .impact, .cost, .roadmap { margin-bottom: 3rem; text-align: center; }
+.mission h1 { color: #69350c; font-size: 2.2rem; margin-bottom: 1rem; }
+.mission p { font-size: 1.1rem; line-height: 1.6; color: #69350c; max-width: 700px; margin: 0 auto; }
+.team h2, .impact h2, .cost h2, .roadmap h2 { color: #69350c; margin-bottom: 1rem; font-size: 1.8rem; }
+.team p { font-size: 1.1rem; color: #69350c; }
+.impact ul, .cost ul, .roadmap ul { list-style: none; padding: 0; max-width: 600px; margin: 0 auto; }
+.impact li, .cost li, .roadmap li { background: #ffffff; margin-bottom: 0.75rem; padding: 0.75rem; border-radius: 5px; border-left: 3px solid #69350c; text-align: left; transition: box-shadow 0.3s ease; }
+.impact li:hover, .cost li:hover, .roadmap li:hover { box-shadow: 0 2px 4px rgba(105, 53, 12, 0.1); }
+.cost li strong { color: #69350c; font-size: 1.1rem; }
+@media (max-width: 768px) { .mission h1 { font-size: 1.8rem; } .impact li, .cost li, .roadmap li { padding: 0.5rem; } }
