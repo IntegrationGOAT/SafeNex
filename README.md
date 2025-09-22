@@ -26,7 +26,8 @@ SafeNex is a web-based project that demonstrates an innovative system designed t
 
 
 Team
-1. Rishabh Das (XI) - @RizDas
+1. Rishabh Das (XI) - `@RizDas`
 2. Anish De (XI)
-3. Jeet Baidya (IX) - @IntegrationGOAT
+3. Jeet Baidya (IX) - `@IntegrationGOAT`
+   
 School: Delhi Public School Ruby Park
