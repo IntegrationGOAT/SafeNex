@@ -25,8 +25,8 @@ SafeNex is a web-based project that demonstrates an innovative system designed t
      `npm run dev`
 
 
- Team
-Rishabh Das (XI) - @RizDas
-Anish De (XI)
-Jeet Baidya (IX) - @IntegrationGOAT
+Team
+1. Rishabh Das (XI) - @RizDas
+2. Anish De (XI)
+3. Jeet Baidya (IX) - @IntegrationGOAT
 School: Delhi Public School Ruby Park
