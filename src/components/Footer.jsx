@@ -22,7 +22,7 @@ function Footer() {
           <p>© 2025, SafeNex, Inc. or its affiliates</p>
         </div>
         <Sep></Sep>
-        <p>Developed by Jeet Baidya</p>
+        <p>Developed by Jeet Baidya[IX], Rishab Das[XI], Anish De[XI]</p>
       </Foot>
       <BTT onClick={toTop}>Back to top</BTT>
     </Container>
@@ -114,3 +114,4 @@ const Sep = styled.div`
 `;
 
 export default Footer;
+
